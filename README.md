@@ -6,4 +6,4 @@
 ### 使用方法
 将这个程序放在你要整理的图片/视频所在的同级目录下，然后双击运行即可！这个程序支持图片和视频的整理，按年和月分类。
 
-![image](https://user-images.githubusercontent.com/34938147/138928128-d7360fbf-4fee-46c0-b450-ed95b195ee1e.png)
+![image](https://user-images.githubusercontent.com/34938147/138928312-8fb39443-bc2d-489b-a4d0-d945d5480b01.png)

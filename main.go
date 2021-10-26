@@ -103,7 +103,7 @@ func main() {
 	if total > 0 {
 		exitMsg += fmt.Sprintf("总共移动了%d个文件。", total)
 	} else {
-		exitMsg += fmt.Sprintf("没有移动任何文件。")
+		exitMsg += "没有移动任何文件。"
 	}
 	fmt.Println(exitMsg)
 	time.Sleep(time.Second * 20)
